@@ -1,6 +1,17 @@
 # Efficient Non-Sampling Knowledge Graph Embedding
 
-If you use the code, please cite the following [paper](http://aclweb.org/anthology/D18-2024):
+If you use the code, please cite our paper:
+
+```
+ @inproceedings{li2021efficient,
+   title={Efficient Non-Sampling Knowledge Graph Embedding},
+   author={Li, Zelong and Ji, Jianchao and Fu, Zuohui and Ge, Yingqiang and Xu, Shuyuan and Chen, Chong and Zhang, Yongfeng},
+   booktitle={Proceedings of the the Web Conference 2021},
+   year={2021}
+ }
+```
+
+and the following [paper](http://aclweb.org/anthology/D18-2024)
 
 ```
  @inproceedings{han2018openke,
