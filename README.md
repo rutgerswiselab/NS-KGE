@@ -1,6 +1,6 @@
 # Efficient Non-Sampling Knowledge Graph Embedding
 
-If you use the code, please cite our paper:
+If you use the code, please cite our [paper](https://arxiv.org/abs/2104.10796):
 
 ```
  @inproceedings{li2021efficient,
@@ -97,7 +97,3 @@ We have provided the state-of-the-art performace (Hits@10 (filter)) on FB15K237 
 
 
 <strong> We are still trying more hyper-parameters and more training strategies for knowledge graph models. </strong> Hence, this table is still in change. We welcome everyone to help us update this table and hyper-parameters.
-
-## To do
-
-The citation of our paper
